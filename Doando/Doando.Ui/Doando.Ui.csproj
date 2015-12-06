@@ -251,10 +251,6 @@
       <Project>{2c3e1496-94f9-4ea9-82ef-cb921190140c}</Project>
       <Name>Doando.Busines</Name>
     </ProjectReference>
-    <ProjectReference Include="..\Doando.Dto\Doando.Dto.csproj">
-      <Project>{52e0234d-08e8-4fa0-bba3-ea8bb57e2941}</Project>
-      <Name>Doando.Dto</Name>
-    </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
